@@ -1,0 +1,3 @@
+LIBRARY cython_matmul.pyd
+EXPORTS
+initcython_matmul

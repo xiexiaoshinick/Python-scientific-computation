@@ -1,0 +1,11 @@
+#EnSight Gold file written by VTK
+
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model: mandelbrot1.geo
+
+VARIABLE
+scalar per node: 	Iterations 	mandelbrot1_pd_Iterations
+

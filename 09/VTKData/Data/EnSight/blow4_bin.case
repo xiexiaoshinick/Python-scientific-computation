@@ -1,0 +1,21 @@
+#EnSight 6 file written by VTK
+
+FORMAT
+type: ensight
+
+GEOMETRY
+model: 1 blow4_bin.geo***
+
+VARIABLE
+vector per node: 1	displacement 	blow4_bin_pd_displacement***
+scalar per node: 1	thickness 	blow4_bin_pd_thickness***
+vector per element: 1	displacement 	blow4_bin_cd_displacement***
+scalar per element: 1	thickness 	blow4_bin_cd_thickness***
+
+TIME
+time set: 	 1
+number of steps: 	 2
+filename start number: 	 0
+filename increment: 	 1
+time values: 	 0 0.1
+

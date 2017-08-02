@@ -1,0 +1,17 @@
+FORMAT
+type:      master_server gold
+SERVERS
+number of servers:   2
+
+machine id: localhost
+executable: ensight7.server
+directory:
+login id:
+casefile: mandelbrot1.case
+
+machine id: localhost
+executable: ensight7.server
+directory:
+login id:
+casefile: mandelbrot2.case
+

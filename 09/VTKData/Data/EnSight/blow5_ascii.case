@@ -1,0 +1,14 @@
+#EnSight 6 file written by VTK
+
+FORMAT
+type: ensight
+
+GEOMETRY
+model: blow5_ascii.geo
+
+VARIABLE
+vector per node: 	displacement 	blow5_ascii_pd_displacement
+scalar per node: 	thickness 	blow5_ascii_pd_thickness
+vector per element: 	displacement 	blow5_ascii_cd_displacement
+scalar per element: 	thickness 	blow5_ascii_cd_thickness
+

@@ -1,0 +1,20 @@
+#EnSight6 example to test vtkEnSight6Reader
+
+FORMAT
+type: ensight
+
+GEOMETRY
+model: elements6.geo
+
+VARIABLE
+scalar per node:	pointScalars	elements6.Nsca
+vector per node:	pointVectors	elements6.Nvec
+tensor symm per node:	pointTensors	elements6.Nten
+complex scalar per node: pointCScalars elements6.NCsca_r elements6.NCsca_i 2.
+complex vector per node: pointCVectors elements6.NCvec_r elements6.NCvec_r 2.
+
+scalar per element:	cellScalars	elements6.Esca
+vector per element:	cellVectors	elements6.Evec
+tensor symm per element: cellTensors	elements6.Eten
+complex scalar per element: cellCScalars elements6.ECsca_r elements6.ECsca_i 2.
+complex vector per element: cellCVectors elements6.ECvec_r elements6.ECvec_i 2.

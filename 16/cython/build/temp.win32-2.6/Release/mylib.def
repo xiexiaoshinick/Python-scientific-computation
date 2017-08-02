@@ -1,0 +1,3 @@
+LIBRARY mylib.pyd
+EXPORTS
+initmylib

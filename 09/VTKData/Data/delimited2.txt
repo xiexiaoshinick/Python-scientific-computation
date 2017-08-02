@@ -1,0 +1,2 @@
+Frodo,Sam,Aragorn,Merry,Pippin,Gandalf,Boromir,Gimli,Legolas
+This,,,line,,,has,,,repeated,,,delimiters,,,that,,,should,,,get,,,collapsed

@@ -1,0 +1,3 @@
+LIBRARY _nlms_swig.pyd
+EXPORTS
+init_nlms_swig

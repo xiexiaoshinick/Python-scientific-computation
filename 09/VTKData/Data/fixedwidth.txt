@@ -1,0 +1,3 @@
+abcdefghijABCDEFGHIJ1234567890!@#$%^&*()
+Foo       Bar       Baz       Sheep
+ Test        Strip     Spaces TooMuchDataInThisField

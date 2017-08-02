@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkHierarchicalBoxDataSet" version="0.1" byte_order="LittleEndian" compressor="vtkZLibDataCompressor">
+  <vtkHierarchicalBoxDataSet>
+    <RefinementRatio level="0" refinement="2"/>
+    <RefinementRatio level="1" refinement="2"/>
+    <DataSet group="0" dataset="0" amr_box="0 7 0 7 0 7" file="chombo3d_0.vti"/>
+    <DataSet group="1" dataset="0" amr_box="0 15 0 15 0 15" file="chombo3d_1.vti"/>
+    <DataSet group="2" dataset="0" amr_box="0 11 8 23 8 23" file="chombo3d_2.vti"/>
+    <DataSet group="2" dataset="1" amr_box="8 11 0 7 0 7" file="chombo3d_3.vti"/>
+    <DataSet group="2" dataset="2" amr_box="12 19 0 7 0 7" file="chombo3d_4.vti"/>
+    <DataSet group="2" dataset="3" amr_box="12 15 8 15 8 15" file="chombo3d_5.vti"/>
+    <DataSet group="2" dataset="4" amr_box="12 15 8 15 16 23" file="chombo3d_6.vti"/>
+    <DataSet group="2" dataset="5" amr_box="12 15 16 23 8 15" file="chombo3d_7.vti"/>
+    <DataSet group="2" dataset="6" amr_box="12 15 16 23 16 23" file="chombo3d_8.vti"/>
+    <DataSet group="2" dataset="7" amr_box="16 19 12 15 12 15" file="chombo3d_9.vti"/>
+    <DataSet group="2" dataset="8" amr_box="16 19 12 15 16 19" file="chombo3d_10.vti"/>
+    <DataSet group="2" dataset="9" amr_box="16 19 16 19 12 15" file="chombo3d_11.vti"/>
+    <DataSet group="2" dataset="10" amr_box="16 19 16 19 16 19" file="chombo3d_12.vti"/>
+    <DataSet group="2" dataset="11" amr_box="20 23 8 11 8 11" file="chombo3d_13.vti"/>
+    <DataSet group="2" dataset="12" amr_box="20 23 12 19 12 19" file="chombo3d_14.vti"/>
+    <DataSet group="2" dataset="13" amr_box="24 31 8 11 8 11" file="chombo3d_15.vti"/>
+  </vtkHierarchicalBoxDataSet>
+</VTKFile>

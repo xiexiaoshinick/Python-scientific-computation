@@ -1,0 +1,9 @@
+PubID,Author,Journal,Categories,Accuracy
+P001,Biff,American Journal of Spacecraft Music,Jazz; Rocket Science,0.3
+P002,Bob,American Journal of Spacecraft Music,Jazz,0.2
+P003,Baz,Southwestern Cooking for Dummies,Food,0.6
+P004,Bippity,Proceedings of the Society for Cooking Stuff,Food,0.6
+P005,Boppity,Hot Rods and Nachos Magazine,Food; Automobiles,0.15
+P006,Boo,Hot Rods and Nachos Magazine,Automobiles,0.98
+P007,Boo,Hot Rods and Nachos Magazine,Automobiles,0.56
+P008,Biff;Bob,American Crafts and Holistic Medicine Quarterly,Knitting;Acupuncture,0.21

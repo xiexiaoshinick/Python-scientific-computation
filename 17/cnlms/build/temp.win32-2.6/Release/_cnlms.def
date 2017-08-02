@@ -1,0 +1,3 @@
+LIBRARY _cnlms.pyd
+EXPORTS
+init_cnlms

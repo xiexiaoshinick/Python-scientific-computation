@@ -1,0 +1,19 @@
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model: test.geo
+
+VARIABLE
+scalar per element: 1            Pressure       test.pressure.****
+vector per element: 1            Velocity       test.velocity.****
+vector per element: 1       Face_Velocity       test.extr_velocity.****
+scalar per element: 1       Face_Pressure       test.extr_pressure.****
+
+TIME
+time set:              1
+number of steps:       1
+filename start number: 1
+filename increment:    1
+time values:
+            0.3

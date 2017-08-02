@@ -1,0 +1,22 @@
+#EnSight Gold file written by VTK
+
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model: 1 1 blow1_bin.geo
+VARIABLE
+vector per node: 1 1	displacement 	blow1_bin_pd_displacement
+scalar per node: 1 1	thickness 	blow1_bin_pd_thickness
+vector per element: 1 1	displacement 	blow1_bin_cd_displacement
+scalar per element: 1 1	thickness 	blow1_bin_cd_thickness
+
+TIME
+time set: 	 1
+number of steps: 	 2
+time values: 	 0 0.1
+
+FILE
+file set: 1
+number of steps: 2
+

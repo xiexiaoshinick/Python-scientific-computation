@@ -1,0 +1,12 @@
+#EnSight Gold file written by VTK
+
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model: RectGrid_ascii.geo
+
+VARIABLE
+scalar per node: 	scalars 	RectGrid_ascii_pd_scalars
+vector per node: 	vectors 	RectGrid_ascii_pd_vectors
+

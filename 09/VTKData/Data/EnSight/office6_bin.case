@@ -1,0 +1,11 @@
+#EnSight 6 file written by VTK
+
+FORMAT
+type: ensight
+
+GEOMETRY
+model: office6_bin.geo
+
+VARIABLE
+scalar per node: 	scalars 	office6_bin_pd_scalars
+vector per node: 	vectors 	office6_bin_pd_vectors

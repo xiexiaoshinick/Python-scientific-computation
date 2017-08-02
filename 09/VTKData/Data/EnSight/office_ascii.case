@@ -1,0 +1,12 @@
+#EnSight Gold file written by VTK
+
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model: office_ascii.geo
+
+VARIABLE
+scalar per node: 	scalars 	office_ascii_pd_scalars
+vector per node: 	vectors 	office_ascii_pd_vectors
+

@@ -1,0 +1,1 @@
+gcc -Wall -shared sum_test.c -o sum_test.dll

@@ -1,0 +1,32 @@
+scalars per element
+part 1
+point
+1.00000e+000
+bar2
+2.00000e+000
+bar3
+3.00000e+000
+tria3
+4.00000e+000
+tria6
+5.00000e+000
+quad4
+6.00000e+000
+quad8
+7.00000e+000
+tetra4
+8.00000e+000
+tetra10
+9.00000e+000
+pyramid5
+1.00000e+001
+pyramid13
+1.10000e+001
+hexa8
+1.20000e+001
+hexa20
+1.30000e+001
+penta6
+1.40000e+001
+penta15
+1.50000e+001

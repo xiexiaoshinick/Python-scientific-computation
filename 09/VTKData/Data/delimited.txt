@@ -1,0 +1,15 @@
+My Field Name 1:My Field Name 2:My Field Name 3:My Field Name 4
+
+
+
+
+
+What has it:got in its:pocketses,:precious?
+Not:Enough:Fields
+Test:"String:Delimiters":o\"n:"this:line"
+
+
+           
+
+Empty:Last:Field:
+Too:Many:Fields:On:This:Line

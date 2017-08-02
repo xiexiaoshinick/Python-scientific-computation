@@ -1,0 +1,20 @@
+#EnSight Gold example to test vtkEnSightGoldReader
+
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model: elements.geo
+
+VARIABLE
+scalar per node:	pointScalars	elements.Nsca
+vector per node:	pointVectors	elements.Nvec
+tensor symm per node:	pointTensors	elements.Nten
+complex scalar per node: pointCScalars elements.NCsca_r elements.NCsca_i 2.
+complex vector per node: pointCVectors elements.NCvec_r elements.NCvec_r 2.
+
+scalar per element:	cellScalars	elements.Esca
+vector per element:	cellVectors	elements.Evec
+tensor symm per element: cellTensors	elements.Eten
+complex scalar per element: cellCScalars elements.ECsca_r elements.ECsca_i 2.
+complex vector per element: cellCVectors elements.ECvec_r elements.ECvec_i 2.

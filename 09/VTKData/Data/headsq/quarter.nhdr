@@ -1,0 +1,9 @@
+NRRD0004
+dimension: 3
+sizes: 64 64 93
+spacings: 3.2 3.2 1.5
+endian: little
+type: short
+encoding: raw
+space: 3D-left-handed
+data file: quarter.%d 1 93 1

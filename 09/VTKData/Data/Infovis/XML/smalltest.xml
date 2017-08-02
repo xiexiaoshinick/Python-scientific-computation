@@ -1,0 +1,23 @@
+<node size="1" label="level 0">
+  <node size="1" label="level 1">
+    <node size="1" label="level 2"/>
+    <node size="2" label="level 2"/>
+    <node size="3" label="level 2"/>
+    <node size="4" label="level 2"/>
+    <node size="5" label="level 2"/>
+  </node>
+  <node size="1" label="level 1">
+    <node size="1" label="level 2"/>
+    <node size="2" label="level 2"/>
+    <node size="3" label="level 2"/>
+    <node size="4" label="level 2"/>
+    <node size="5" label="level 2"/>
+  </node>
+  <node size="1" label="level 1">
+    <node size="1" label="level 2"/>
+    <node size="2" label="level 2"/>
+    <node size="3" label="level 2"/>
+    <node size="4" label="level 2"/>
+    <node size="5" label="level 2"/>
+  </node>
+</node>

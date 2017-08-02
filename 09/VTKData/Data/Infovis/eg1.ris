@@ -1,0 +1,672 @@
+TY  - JOUR
+T1  - Laser frequency stabilization at 1.5 microns using ultranarrow inhomogeneous absorption profiles in Er3+:LiYF4
+JF  - Journal of Luminescence
+JA  - J Lumin
+VL  - 127
+IS  - 1
+SP  - 83
+EP  - 88
+PY  - 2007///
+SN  - 00222313 (ISSN) 
+AU  - Bo?ttger, T.
+AU  - Pryde, G.J.
+AU  - Thiel, C.W.
+AU  - Cone, R.L.
+AD  - Physics Department, Montana State University, Bozeman, MT 59717, United States
+AD  - Physics Department, University of San Francisco, 2130 Fulton Street, San Francisco, CA 94117, United States
+AD  - Centre for Quantum Dynamics, Centre for Quantum Computer Technology, Griffith University, Nathan, Brisbane, 4111, Australia
+AB  - Single-frequency diode lasers have been frequency stabilized to 1.5 kHz Allan deviation over 0.05-50 s integration times, with laser frequency drift reduced to less than 1.4 kHz/min, using the frequency reference provided by an ultranarrow inhomogeneously broadened Er3+:4I15/2?4I13/2 optical absorption transition at a vacuum wavelength of 1530.40 nm in a low-strain LiYF4 crystal. The 130 MHz full-width at half-maximum (FWHM) inhomogeneous line width of this reference transition is the narrowest reported for a solid at 1.5 ?m. Strain-induced inhomogeneous broadening was reduced by using the single isotope 7Li and by the very similar radii of Er3+ and the Y3+ ions for which it substitutes. To show the practicability of cryogen-free cooling, this laser stability was obtained with the reference crystal at 5 K; moreover, this performance did not require vibrational isolation of either the laser or crystal frequency reference. Stabilization is feasible up to T=25 K where the Er3+ absorption thermally broadens to ?500 MHz. This stabilized laser system provides a tool for interferometry, high-resolution spectroscopy, real-time optical signal processing based on spatial spectral holography and accumulated photon echoes, secondary frequency standards, and other applications such as quantum information science requiring narrow-band light sources or coherent detection. © 2007 Elsevier B.V. All rights reserved.
+KW  - 1.5 ?m wavelength
+KW  - Er3+:YLF
+KW  - Laser stabilization
+KW  - Rare earth
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: JLUMA
+N1  - doi: 10.1016/j.jlumin.2007.02.012
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Bo?ttger, T.; Physics Department; Montana State University Bozeman, MT 59717, United States; email: tbottger@usfca.edu
+N1  - References: Macfarlane, R.M., Cassanho, A., Meltzer, R.S., (1992) Phys. Rev. Lett., 69, p. 542; 
+Macfarlane, R.M., Meltzer, R.S., Malkin, B.Z., (1998) Phys. Rev. B, 58, p. 5692; 
+Agladze, N.I., Popova, M.N., Zhizhin, G.N., Egorov, V.J., Petrova, M.A., (1991) Phys. Rev. Lett., 66, p. 477; 
+Sellin, P.B., Strickland, N.M., Bo?ttger, T., Carlsten, J.L., Cone, R.L., (2001) Phys. Rev. B, 63, p. 155111; 
+Pryde, G.J., Bo?ttger, T., Cone, R.L., (2002) J. Lumin., 98, p. 309; 
+Strickland, N.M., Sellin, P.B., Sun, Y., Carlsten, J.L., Cone, R.L., (2000) Phys. Rev. B, 62, p. 1473; 
+Bo?ttger, T., Pryde, G.J., Cone, R.L., (2003) Opt. Lett., 28, p. 200; 
+Sellin, P.B., Strickland, N.M., Carlsten, J.L., Cone, R.L., (1999) Opt. Lett., 24, p. 1038; 
+Pryde, G.J., Bo?ttger, T., Cone, R.L., (2001) J. Lumin., 94-95, p. 587; 
+Cole, Z., Bo?ttger, T., Krishna Mohan, R., Reibel, R., Babbitt, W.R., Cone, R.L., Merkel, K.D., (2002) Appl. Phys. Lett., 81, p. 3525; 
+Bo?ttger, T., Thiel, C.W., Sun, Y., Cone, R.L., (2006) Phys. Rev. B, 74, p. 075107; 
+Longdell, J.J., Sellars, M.J., (2004) Phys. Rev. A, 69, p. 032307; 
+Fraval, E., Sellars, M.J., Longdell, J.J., (2005) Phys. Rev. Lett., 95, p. 030506; 
+Shannon, R.D., (1976) Acta Crystallogr. Sect. A, 32, p. 751; 
+Popova, M.N., Chukalina, E.P., Malkin, B.Z., Saikin, S.K., (2000) Phys. Rev. B, 61, p. 7421; 
+Harris, T.L., Sun, Y., Babbitt, W.R., Cone, R.L., Ritcey, J.A., Equall, R.W., (2000) Opt. Lett., 25, p. 85; 
+Supplee, J.M., Whittaker, E.A., Lenth, W., (1994) Appl. Opt., 33, p. 6294; 
+Drever, R.W.P., Hall, J.L., Kowalski, F.V., Hough, J., Ford, G.M., Munley, A.J., Ward, H., (1983) Appl. Phys. B, 31, p. 97; 
+Allan, D.W., (1987) IEEE Trans., UFFC-34, p. 647; 
+Day, T., Gustafson, E.K., Byer, R.L., (1992) IEEE J. Quantum Electron., 28, p. 1106; 
+Hobbs, P.C.D., (1997) Appl. Opt., 36, p. 903; 
+Hall, J.L., Taubman, M.S., Ye, J., Laser stabilization (2001) Optics Handbook, , Bass M., Enoch J.M., Van Stryland E.W., and Wolfe W.L. (Eds), Optical Society of America p. 27.1. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34248547812&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Using biharmonic laser pumping for preparation of pure and entangled multiexciton states in clusters of resonantly interacting fluorescent centres
+JF  - Journal of Luminescence
+JA  - J Lumin
+VL  - 127
+IS  - 1
+SP  - 48
+EP  - 54
+PY  - 2007///
+SN  - 00222313 (ISSN) 
+AU  - Basieva, I.T.
+AU  - Basiev, T.T.
+AU  - Dietler, G.
+AU  - Pukhov, K.K.
+AU  - Sekatskii, S.K.
+AD  - Laser Materials and Technologies Research Center, General Physics Institute RAS, 38 Vavilov Street, Bld. D, Moscow, 119991, Russian Federation
+AD  - Laboratoire de Physique de la Matie?re Vivante, IPMC, Ecole Polytechnique Fe?de?rale de Lausanne, CH 1015 Lausanne-Dorigny, Switzerland
+AB  - Use of a biharmonic laser pumping for preparation of pure and entangled multiexciton states in dimers and tetramers of resonantly interacting fluorescent particles is analysed. Special emphasis is given to the preparation of all possible pure exciton states and their maximally entangled Bell states. The general results are illustrated using as an example the pair and quartet centres of neodymium ions in calcium fluoride (M- and N-centres), where all necessary experimental information concerning the interactions and decoherence is available, and experimental preparation of Bell vacuum-single exciton and vacuum-biexciton states has been recently demonstrated. These results can be easily rescaled for the cases of quantum dots and dye molecules. Numerical results are compared with the analytical results obtained for a particular case of the biharmonic excitation of dimers. Excellent agreement between these approaches is demonstrated. © 2007 Elsevier B.V. All rights reserved.
+KW  - Coherent optical spectroscopy of rare-earth ions
+KW  - Entangled states
+KW  - Quantum computer
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: JLUMA
+N1  - doi: 10.1016/j.jlumin.2007.02.004
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Pukhov, K.K.; Laser Materials and Technologies Research Center; General Physics Institute RAS; 38 Vavilov Street, Bld. D Moscow, 119991, Russian Federation; email: pukhov@lst.gpi.ru
+N1  - References: Quiroga, L., Johnson, N.F., (1999) Phys. Rev. Lett., 83, p. 2270; 
+Biolatti, E., (2000) Phys. Rev. Lett., 85, p. 5647; 
+Reina, J.H., Quiroga, L., Johnson, N.F., (2000) Phys. Rev. A, 62, p. 012305; 
+Chen, P., Piermarocchi, C., Sham, L.J., (2001) Phys. Rev. Lett., 87, p. 067401; 
+Chen, G., Bonadeo, N.H., Steel, D.G., Gammon, D., Katzer, D.S., Park, D., Sham, L.J., (2000) Science, 289, p. 1906; 
+Chen, G., Stievater, T.H., Batteh, E.T., Li, X., Steel, D.G., Gammon, D., Katzer, D.S., Sham, L.J., (2002) Phys. Rev. Lett., 88, p. 117901; 
+Kawazoe, T., Kobayashi, K., Sangu, S., Ohtsu, M., (2003) Appl. Phys. Lett., 82, p. 2957; 
+Unold, T., Mueller, K., Lienau, C., Elsaesser, T., Wieck, A.D., (2005) Phys. Rev. Lett., 94, p. 137404; 
+Hettich, C., Schmitt, C., Zitzmann, J., Kuhn, S., Gerhardt, I., Sandoghdar, V., (2002) Science, 298, p. 385; 
+Hofmann, C., (2003) Phys. Rev. Lett., 90, p. 013004; 
+Sekatskii, S.K., Basiev, T.T., Basieva, I.T., Dietler, G., Fedorov, V.V., Karasik, A.Ya., Orlovskii, Yu.V., Pukhov, K.K., (2006) Opt. Commun., 259, p. 298; 
+Sangu, S., Kobayashi, K., Shojiguchi, A., Ohtsu, M., (2004) Phys. Rev., 69, p. 115334; 
+Lowett, B.W., Reina, J.H., Nazir, A., (2003) Phys. Rev. B, 68, p. 205319; 
+Kis, Z., Paspalakis, E., (2004) J. Appl. Phys., 96, p. 3435; 
+Zhang, P., Chang, C.K., Xue, Q.K., (2003) Phys. Rev. A, 67, p. 012312; 
+Feng, M., D'Amico, I., Zanardi, P., (2003) Phys. Rev., 67, p. 014306; 
+Yi, X.X., Jin, G.R., Zhou, D.L., (2001) Phys. Rev. A, 63, p. 062307; 
+Basieva, I.T., Sekatskii, S.K., Pukhov, K.K., Basiev, T.T., Dietler, G., (2004) Laser Phys., 14, p. 1393; 
+Sekatskii, S.K., Chergui, M., Dietler, G., (2003) Europhys. Lett., 63, p. 21; 
+Basieva, I.T., Sekatskii, S.K., Dietler, J., (2005) Chem. Phys. Lett., 51, p. 1919; 
+Nazir, A., Lowett, B.W., Briggs, G.A.D., (2004) Phys. Rev. A, 70, p. 052301; 
+Greenberger, D.M., Horne, M., Zeilinger, A., (1989) Bell's Theorem, Quantum Theory, and Conceptions of the Universe, p. 73. , Kafatos M. (Ed), Kluwer, Dordrecht; 
+Osiko, V.V., Voron'ko, Yu.K., Sobol, A.A., (1984) Crystals 10, , Springer, Berlin; 
+Basiev, T.T., Fedorov, V.V., Karasik, A.Ya., Pukhov, K.K., (1999) J. Luminescence, 81, p. 189; 
+Orlovskii, Yu.V., Basiev, T.T., Osiko, V.V., Grass, H., Heber, J., (1999) J. Luminescence, 82, p. 251; 
+Basiev, T.T., Karasik, A.Ya., Kornienko, A.A., Papashvili, A.G., Pukhov, K.K., (1999) JETP Lett., 78, p. 319; 
+Basiev, T.T., Karasik, A.Ya., Fedorov, V.V., Ver Steeg, K.W., (1998) Sov. Phys. JETP, 86, p. 156; 
+Fedorov, V.V., Beck, W., Basiev, T.T., Karasik, A.Ya., Flytzanis, C., (2000) Chem. Phys., 257, p. 275; 
+Merzbacher, E., (1998) Quantum Mechanics, , Wiley, New York; 
+Macfarlane, R.M., Shelby, R.M., (1987) Spectroscopy of Solids Containing Rare-Earth Ions, p. 51. , Kaplyanskii A.A., and Macfarlane R.M. (Eds), North Holland, Amsterdam; 
+. UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34248575795&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - From quantum entanglement to mirror neuron
+JF  - Chaos, Solitons and Fractals
+JA  - Chaos Solitons Fractals
+VL  - 34
+IS  - 2
+SP  - 344
+EP  - 359
+PY  - 2007///
+SN  - 09600779 (ISSN) 
+AU  - Zak, M.
+AD  - Jet Propulsion Laboratory, California Institute of Technology, Advance Computing Algorithms and IVHM Group, 4800 Oak Grove Drive, M/S 126-347, Pasadena, CA 91109, United States
+AB  - It is proposed that two fundamental phenomena: quantum entanglement in physics, and mirror neuron in biopsychology, can be described by using the same mathematical formalism, namely, the feedback from the Liouville equation to equation of motion. © 2006 Elsevier Ltd. All rights reserved.
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: CSFOE
+N1  - doi: 10.1016/j.chaos.2006.03.087
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Zak, M.; Jet Propulsion Laboratory; California Institute of Technology; Advance Computing Algorithms and IVHM Group; 4800 Oak Grove Drive, M/S 126-347 Pasadena, CA 91109, United States; email: Michail.Zak@jpl.nasa.gov
+N1  - References: Takabayasi, T., Remarks on the formulation of quantum mechanics associated with classical picture (1953) Prog Theor Phys, 8; 
+Zak, M., From reversible thermodynamics to life (2005) Chaos, Solitons & Fractals, 26, pp. 1019-1033; 
+Berg, H., (1983) Random walks in biology, , University Press, Princeton (NJ); 
+Prigogine, I., (1961) Thermodynamics of irreversible processes, , John Wiley, NY; 
+Whitham, G., (1974) Linear and nonlinear waves, , Wily-Interscience Publ; 
+Zeilinger, A., Physics news update (1997) American Institute of Physics, 10 (December); 
+Zak, M., Fijany, A., Quantum resonance for simulating combinatorial problems (2005) Phys Lett A, 345, pp. 167-172; 
+Zak, M., Expectation-based intelligent control (2006) Chaos, Solitons & Fractals, 28, pp. 616-626; 
+Zak, M., Terminal attractors for associative memory in neural networks (1989) Phys Lett A, 133 (1-2), pp. 18-22; 
+Zak, M., Terminal model of Newtonian dynamics (1993) Int J Theor Phys, 32, pp. 159-190; 
+Risken, H., (1989) The Fokker-Planck equation, , Springer, NY; 
+Zak, M., Postinstability models in dynamics (1994) Int J Theor Phys, 33 (11), pp. 2215-2280; 
+Zak, M., Incompatible stochastic processes and complex probabilities (1998) Phys Lett A, 238, pp. 1-7; 
+Zak, M., From collective mind to communications (2003) Complex Syst, 14, pp. 335-361; 
+Zak, M., Entanglement-based self organization (2002) Chaos, Solitons & Fractals, 14, pp. 745-758; 
+Zak, M., Entanglement-based communications (2002) Chaos, Solitons & Fractals, 13, pp. 39-41. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34147162319&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Computational study of steric effects on the optical properties of oligomers
+JF  - Journal of Luminescence
+JA  - J Lumin
+VL  - 126
+IS  - 2
+SP  - 278
+EP  - 288
+PY  - 2007///
+SN  - 00222313 (ISSN) 
+AU  - Irving, D.L.
+AU  - Devine, B.D.
+AU  - Sinnott, S.B.
+AD  - Department of Materials Science and Engineering, University of Florida, 154 Rhines Hall, Gainesville, FL 32611-6400, United States
+AB  - The optical properties of a variety of copolymer structures and their derivatives are determined from semi-empirical quantum chemical calculations. Possible candidates are found for organic light emitting diode and thin photovoltaic film applications. The largest blue shifts in the absorption spectrum are seen for derivatives that cause the oligomers under consideration to deviate from their unsubstituted planar configurations. This is primarily predicted to occur in systems with large steric interactions. Optical emissions are also predicted based on time dependent density functional calculations of excited states of these materials optimized with configuration interaction Hartree-Fock methods. © 2006 Elsevier B.V. All rights reserved.
+KW  - Optical absorption
+KW  - Optical emission
+KW  - Semi-empirical quantum calculation
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: JLUMA
+N1  - doi: 10.1016/j.jlumin.2006.07.006
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Sinnott, S.B.; Department of Materials Science and Engineering; University of Florida; 154 Rhines Hall Gainesville, FL 32611-6400, United States; email: sinnott@mse.ufl.edu
+N1  - References: Burroughes, J.H., Bradley, D.D.C., Brown, A.R., Marks, R.N., Mackay, K., Friend, R.H., Burns, P.L., Holmes, A.B., (1990) Nature, 347 (6293), p. 539; 
+Krasovitskii, B.M., Bolotin, B.M., (1988) Organic Luminescent Materials, , VCH, Weinheim, New York, NY; 
+Cornil, J., Beljonne, D., Shuai, Z., Hagler, T.W., Campbell, I., Bradley, D.D.C., Bredas, J.L., Mullen, K., (1995) Chem. Phys. Lett., 247 (4-6), p. 425; 
+Reddinger, J.L., Reynolds, J.R., (1999) Adv. Polym. Sci., 145, p. 59; 
+Friend, R.H., (1999) Nature, 397 (6715), p. 121; 
+de Souza, M.M., Rumbles, G., Gould, I.R., Amer, H., Samuel, I.D.W., Moratti, S.C., Holmes, A.B., (2000) Synth. Met., 111, p. 539; 
+Miyata, S.O., Nalwa, H.S., (1997) Organic Electroluminescent Materials and Devices, , Gordon and Breach Publishers, Amsterdam; 
+(1999) Phosphor Handbook, , Phosphor Research Society, CRC Press, Boca Raton, FL; 
+Bauerle, P., (1993) Adv. Mater., 5 (12), p. 879; 
+Braun, D., Heeger, A.J., (1991) Appl. Phys. Lett., 58 (18), p. 1982; 
+Yang, Y., Pei, Q., Heeger, A.J., (1996) J. Appl. Phys., 79 (2), p. 934; 
+Bredas, J.L., Cornil, K., Meyers, F., Beljonne, D., (1997) Handbook of Conducting Polymers, 1, p. 1. , Skotheim T., Elsenbaumer R., and Reynolds J. (Eds), Marcel Dekker Inc., New York; 
+Cirpan, A., Argun, A.A., Grenier, C.R.G., Reeves, B.D., Reynolds, J.R., (2003) J. Mater. Chem., 13 (10), p. 2422; 
+Argun, A.A., Cirpan, A., Reynolds, J.R., (2003) Adv. Mater., 15 (16), p. 1338; 
+Argun, A.A., (2004) Chem. Mater., 16 (23), p. 4401; 
+Stewart, J.J.P., (1989) J. Comput. Chem., 10 (2), p. 209; 
+Stewart, J.J.P., (1989) J. Comput. Chem., 10 (2), p. 221; 
+Stewart, J.J.P., (1990) J. Computer-Aided Mol. Des., 4 (1), p. 1; 
+Thiel, W., (2000) Modern Methods and Algorithms of Quantum Chemistry, p. 1. , Grotendorst J. (Ed), John von Neumann Institute for Computing, Julich; 
+Thiel, W., (1996) Advances in Chemical Physics, Volume 93, New Methods in Computational Quantum Mechanics, 93, p. 703. , Prigogine I., and Rice S.A. (Eds), Wiley, New York; 
+Ridley, J., Zerner, M., (1973) Theor. Chim. Acta, 32 (2), p. 111; 
+Zerner, M.C., (1991) Reviews in Computational Chemistry, 2, p. 313. , Lipkowitz K.B., and Boyd D.B. (Eds); 
+Stratmann, R., Scuseria, G., Frisch, M., (1998) J. Chem. Phys., 109 (19), p. 8218; 
+Becke, A.D., (1988) Phys. Rev. A, 38 (6), p. 3098; 
+Gajdek, P., Becker, R.S., Elisei, F., Mazzucato, U., Spalletti, A., (1996) J. Photochem. Photobiol. A-Chem., 100 (1-3), p. 57; 
+Mercer, I.P., Gould, I.R., Klug, D.R., (1999) J. Phys. Chem. B, 103 (36), p. 7720; 
+Mercer, I.P., Gould, I.R., Klug, D.R., (1997) Faraday Discuss., 108, p. 51; 
+Walker, R.C., de Souza, M.M., Mercer, I.P., Gould, I.R., Klug, D.R., (2002) J. Phys. Chem. B, 106 (44), p. 11658; 
+Rappoport, D., Furche, F., (2005) J. Chem. Phys., 122 (6); 
+Furche, F., Ahlrichs, R., (2004) J. Chem. Phys., 121 (24), p. 12772; 
+Furche, F., Ahlrichs, R., (2002) J. Chem. Phys., 117 (16), p. 7433; 
+Foresman, J.B., Headgordon, M., Pople, J.A., Frisch, M.J., (1992) J. Phys. Chem., 96 (1), p. 135; 
+Tretiak, S., Mukamel, S., (2002) Chem. Rev., 102 (9), p. 3171; 
+Marques, M., Gross, E., (2004) Annu. Rev. Phys. Chem., 55, p. 427; 
+Hirata, S., Head-Gordon, M., Szczepanski, J., Vala, M., (2003) J. Phys. Chem. A, 107 (24), p. 4940; 
+Bauernschmitt, R., Ahlrichs, R., (1996) Chem. Phys. Lett., 256 (4-5), p. 454; 
+Casida, M.E., Jamorski, C., Casida, K.C., Salahub, D.R., (1998) J. Chem. Phys., 108 (11), p. 4439; 
+Wang, S., Ho, T., (2000) J. Photochem. Photobiol. A: Chem., 135, p. 119; 
+Perdew, J.P., Burke, K., Wang, Y., (1996) Phys. Rev. B, 54 (23), p. 16533; 
+Perdew, J.P., Wang, Y., (1992) Phys. Rev. B, 45 (23), p. 13244; 
+Hohenberg, P., Kohn, W., (1964) Phys. Rev. B, 136 (3 B), pp. B864; 
+Vosko, S.H., Wilk, L., Nusair, M., (1980) Can. J. Phys., 58 (8), p. 1200; 
+Lee, C.T., Yang, W.T., Parr, R.G., (1988) Phys. Rev. B, 37 (2), p. 785; 
+Karabunarliev, S., Baumgarten, M., Mullen, K., (2000) J. Phys. Chem. A, 104 (35), p. 8236. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34248549735&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Steering of a dissipative qubit by direct inversion
+JF  - Journal of Computational Electronics
+JA  - J. Comput. Electron.
+VL  - 6
+IS  - 1
+SP  - 271
+EP  - 274
+PY  - 2007///
+SN  - 15698025 (ISSN) 
+AU  - Wenin, M.
+AU  - Po?tz, W.
+AD  - Institut fu?r Physik, Theory Division Karl Franzens Universita?t Graz, Universita?tsplatz 5, 8010 Graz, Austria
+AB  - We present an analytical investigation of the manipulation of a quantum mechanical two-level system (qubit) with time-dependent fields. The qubit interacts with a phonon-system which acts as a 'heat bath'. It is shown that one can analytically find optimal Hamiltonians to perform state transformations with arbitrarily small loss of purity. © Springer Science+Business Media LLC 2007.
+KW  - Inversion
+KW  - Optimal control
+KW  - Phonons
+KW  - Two-level quantum systems
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - doi: 10.1007/s10825-006-0125-3
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Wenin, M.; Institut fu?r Physik; Theory Division Karl Franzens Universita?t Graz; Universita?tsplatz 5 8010 Graz, Austria; email: Markus.Wenin@uni-graz.at
+N1  - References: Leggett, A.J., Chakravarty, S., Dorsey, A.T., Fisher, M.P.A., Garg, A., Zwerger, W., (1987) Rev. Mod. Phys., 59, p. 1; 
+Thorwart, M., Ha?nggi, P., (2001) Phys. Rev. A, 65, p. 012309; 
+Jacak, L., Krasnyj, J., Jacak, W., Gonczarek, R., Machnikowski, P., (2005) Phys. Rev. B, 72, p. 245309; 
+Protopopescu, V., Perez, R., D'Helon, C., Schmulen, J., (2003) J. Phys. A: Math. Gen., 36, pp. 2175-2189; 
+Vitali, D., Tombesi, P., (1999) Phys. Rev. A, 59, p. 6; 
+DiVincenzo, D.P., Loss, D., (2005) Phys. Rev. B, 71, p. 035318; 
+Jirari, H., Po?tz, W., (2005) Phys. Rev. A, 72, p. 013409; 
+Viola, L., Lloyd, S., (1998) Phys. Rev. A, 58, p. 2733; 
+Lidar, D.A., Chuang, I.L., Whaley, K.B., (1998) Phys. Rev. Lett., 81, p. 12; 
+Grigorenko, I.A., Khveshchenko, D.V., (2005) Phys. Rev. Lett., 94, p. 040506; 
+Hohenester, U., Stadler, G., (2004) Phys. Rev. Lett., 92, p. 19; 
+Stievater, T.H., Li, X., Gammon, D.G., Katzer, D.S., Park, D., Piermarocchi, C., Sham, L.J., (2001) Phys. Rev. Lett., 87, p. 13; 
+Makhlin, Y., Scho?n, G., Shnirman, A., (2001) Rev. Mod. Phys., 73, p. 357; 
+Rossi, F., Kuhn, T., (2002) Rev. Mod. Phys., 74; 
+Wenin, M., (2006) Phys. Rev. A, 74, p. 1. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34247537652&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Boundary condition at the junction
+JF  - Journal of Computational Electronics
+JA  - J. Comput. Electron.
+VL  - 6
+IS  - 1
+SP  - 153
+EP  - 157
+PY  - 2007///
+SN  - 15698025 (ISSN) 
+AU  - Harmer, M.
+AU  - Pavlov, B.
+AU  - Yafyasov, A.
+AD  - Inst. of Inf. and Math Sciences, Massey Univ., Albany, New Zealand
+AD  - Dept. of Math., The University of Auckland, Auckland, New Zealand
+AD  - Institute for Physics, St-Petersburg University, St-Petersburg, Russian Federation
+AB  - When modeling a 2-d quantum network by a 1-d quantum graph one usually substitutes the 2-d vertex domains by the point-wise junctions with appropriate boundary conditions imposed on the boundary values ?(a) = (?1(a), ?2(a), ?3(a), ...?n(a)), ?? = ??1 (a), ??2 (a), ??3(a),... ??n(a)) of the wave-function on the leads ?1, ?2,...?n at the junction a. In particular Datta proposed parametrization of the boundary condition, for symmetric T-junction, by some orthogonal 1-d projection P0: Rn ? Rn P0? ?(a) = 0, P0 ??(a) = 0. We consider an arbitrary junction, n ? 3 of 2-d leads attached to a 2-d vertex domain ?int, in case, when there exist a resonance eigenvalue ? = 2m* E? ?-2 of the Schro?dinger operator Lint. We derive, from the first principles, energy-dependent boundary conditions for thin, quasi-1-d, network, and obtain from it, in the limit of zero temperature, Datta-type boundary condition, interpreting the projection P0 in terms of the resonance eigenfunction ?0: Lint?0 = ?0?0 and geometry of the leads. © Springer Science+Business Media LLC 2007.
+KW  - Eigenfunction
+KW  - Eigenvalue
+KW  - Junction
+KW  - Scattering matrix
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - doi: 10.1007/s10825-006-0085-7
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Harmer, M.; Inst. of Inf. and Math Sciences; Massey Univ. Albany, New Zealand; email: m.s.harmer@massey.ac.nz
+N1  - References: Datta, S., (1995) Electronic Transport in Mesoscopic Systems, , Cambridge University Press, Cambridge; 
+Meijer, F., Morpurgo, A., Klapwijk, T., (2002) Phys. Rev. B, 66, p. 033107; 
+Nitta, J., Meijer, F.E., Takayanagi, H., (1999) Appl. Phys. Lett., 75, pp. 695-697; 
+Shelykh, I.A., Galkin, N.G., Bagraev, N.T., (2005) Phys. Rev. B, 72, p. 235316; 
+Splettstoesser, J., Governale, M., Zu?licke, U., (2003) Phys. Rev. B, 68, p. 165341; 
+Kuchment, P., (2002) Waves in Periodic and Random Media, 12, p. 1; 
+Kostrykin, V., Schrader, R., (2001) J. Math. Phys., 42, pp. 1563-1598; 
+Kostrykin, V., Schrader, R., (2003) Commun. Math. Phys., 237, pp. 161-179; 
+Harmer, M., (2000) J. Phys. A: Mathem. General, 33, pp. 9193-9203; 
+Taniguchi, T., Bu?ttiker, M., (1999) Phys. Rev. B, 60, p. 13814; 
+Harmer, M., The rashba ring In preparationSylvester, J., Uhlmann, G., (1990) Proceedings of the Conference "Inverse Problems in Partial Differential Equations (Arcata, 1989),", 101. , In: SIAM, Philadelphia; 
+Bagraev, N., Mikhailova, A., Pavlov, B.S., Prokhorov, L.V., Yafyasov, A., (2005) Phys. Rev. B, 71, p. 165308; 
+Pavlov, B., Antoniou, I., (2005) J. Phys. A: Math. Gen., 38, pp. 4811-4823; 
+Glazman, I., (1966) Direct Methods of Qualitative Spectral Analysis of Singular Differential Operators Translated from the Russian By the IPST Staff (Israel Program for Scientific Translations), , Jerusalem, 1965; Daniel Davey & Co., Inc., New York; 
+Mittra, R., Lee, S., (1971) Analytical Techniques in the Theory of Guided Waves, p. 323. , The Macmillan Company, NY, Collier-Macmillan Limited, London; 
+Mikhailova, A., Pavlov, B., Prokhorov, L., (2004) Arxiv Math-ph/031238, p. 69. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34247340417&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Circuit modeling of flux qubits interacting with superconducting waveguides
+JF  - Journal of Computational Electronics
+JA  - J. Comput. Electron.
+VL  - 6
+IS  - 1
+SP  - 105
+EP  - 108
+PY  - 2007///
+SN  - 15698025 (ISSN) 
+AU  - Csaba, G.
+AU  - Fahem, Z.
+AU  - Peretti, F.
+AU  - Lugli, P.
+AD  - Institute for Nanoelectronics, Technical University of Munich, Arcisstrasse 21, D-80333 Munich, Germany
+AB  - We present an equivalent circuit approach to understand, simulate and design experimental setups, where superconducting coplanar resonators are applied to probe quantum systems. We employ finite-element electromagnetic simulations to construct an equivalent lumped circuit representation of the microwave cavity and we use a circuit model based on the Bloch equations to simulate the behavior of a two-state model quantum system. Interconnection of the two circuit modules gives a semiclassical description of the coupled quantum/classical dynamics and yields predictions that are directly comparable with measurements on realized circuits. © Springer Science+Business Media LLC 2007.
+KW  - Cavity QED
+KW  - Circuit modeling
+KW  - Finite-element electromagnetics
+KW  - On-chip spectroscopy
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - doi: 10.1007/s10825-006-0067-9
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Csaba, G.; Institute for Nanoelectronics; Technical University of Munich; Arcisstrasse 21 D-80333 Munich, Germany; email: csaba@ei.tum.de
+N1  - References: Blais, A., Huang, R.S., Wallraff, A., Girvin, S.M., Schoelkopf, R.J., Cavity quantum electrodynamics for superconducting electrical circuits: An architecture for quantum computation (2004) Phys. Rev, A69, p. 062320; 
+Wallraff, A., Schuster, D.I., Blais, A., Frunzio, L., Huang, R.-S., Majer, J., Kumar, S., Schoelkopf, R.J., Strong coupling of a single photon to a superconducting qubit using circuit quantum electrodynamics (2004) Nature, 431, p. 9; 
+Cendes, Z.J., Vector finite elements for electromagnetic field computation (1991) IEEE Trans. Magn., 27 (5); 
+http://www.ansoft.com/products/hf/hfss/Mariantoni, M., Storcz, M.J., Wilhelm, F.K., Oliver, W.D., Emmert, A., Marx, A., Gross, R., Solano, E., Generation of Microwave Single Photons and Homodyne Tomography on a Chip, , cond-mat/0509737; 
+http://www.comsol.com/Orlando, T., Delin, K.A., (1991) Foundations of Applied Superconductivity Prentice Hall; 
+Csurgay, A?., Porod, W., Equivalent circuit representation of arrays composed of Coulomb-coupled nanoscale devices: Modelling, simulation and realizability nt (2001) J. Circ. Theor. Appl., 29 (1), pp. 3-35; 
+Csaba, G., Csurgay, A., Porod, W., Computing architecture composed of next-neighbor coupled, opticallt pumped nanodevices (2001) Int. J. Circ. Theor. Appl., 29, p. 73; 
+Orlando, T.P., Mooij, J.E., Tian, L., van der Wal, C.H., Levitov, L.S., Lloyd, S., Mazo, J.J., Superconducting persistent-current qubit (1999) Phys. Rev., B60, p. 22; 
+Csaba, G., Porod, W., Csurgay, A.I., Computing architecture composed of field-coupled single domain nanomagnets clocked by magnetic field (2003) Int. J. Circ. Theor. Appl., 31, p. 1. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34247535111&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Indirect optimal control of a double quantum dot
+JF  - Journal of Computational Electronics
+JA  - J. Comput. Electron.
+VL  - 6
+IS  - 1
+SP  - 171
+EP  - 174
+PY  - 2007///
+SN  - 15698025 (ISSN) 
+AU  - Po?tz, W.
+AD  - Institut fu?r Physik, Theory Division, Karl-Franzens-Universita?t Graz, Universita?tplatz 5, 8010 Graz, Austria
+AB  - An indirect optimization method for the dynamic control of non-Markovian open quantum systems is presented. It is demonstrated at the example of a spin-boson model for an electron in a double dot which couples to a bath of phonons. This study reveals strategies for controlling the effective system-bath coupling which become available when the system is addressed in its quantum regime. We give examples for population transfer, trapping and quantum operations. © Springer Science+Business Media LLC 2007.
+KW  - Dissipation
+KW  - Open quantum system
+KW  - Optimal control
+KW  - Quantum dot
+KW  - Qubit
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - doi: 10.1007/s10825-006-0079-5
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Po?tz, W.; Institut fu?r Physik; Theory Division; Karl-Franzens-Universita?t Graz; Universita?tplatz 5 8010 Graz, Austria; email: walter.poetz@uni-graz.at
+N1  - References: Nielsen, M.A., Chuang, I.L., (2002) Quantum Computation and Quantum Information, , (Cambridge Press, Cambridge); 
+Breuer, H.P., Petruccione, F., (2002) The Theory of Open Quantum Systems, , Oxford University Press; 
+Jirari, H., Po?tz, W., (2005) Phys. Rev. A, 72, p. 013409; 
+Jirari, H., Po?tz, W., (2006) Phys. Rev. A, 74, p. 022306; 
+Greiner, W., (2003) Classical Mechanics Springer, , See, for example New York; 
+Krotov, V.F., (1996) Global Methods in Optimal Control Theory, , Dekker, New York; 
+Po?tz, W., Goritschnig, A., Jirari, H., Proc. 5th MATHMOD 2006, 1, p. 87. , ARGESIM Record no. 30 and Vol. 2, Sessions/PHYS/127; 
+Leggett, A.J., Chakravarty, S., Dorsey, A.T., Fisher, M.P.A., Garg, A., Zwerger, W., (1987) Rev. Mod. Phy., 59, p. 1; 
+Viola, L., Lloyd, S., (1998) Phys. Rev. A, 58 (4), p. 2733. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34247336327&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - 3D simulation of a silicon quantum dot in a magnetic field based on current spin density functional theory
+JF  - Journal of Computational Electronics
+JA  - J. Comput. Electron.
+VL  - 6
+IS  - 1
+SP  - 191
+EP  - 194
+PY  - 2007///
+SN  - 15698025 (ISSN) 
+AU  - Lisieri, M.
+AU  - Fiori, G.
+AU  - Iannaccone, G.
+AD  - Dipartimento di Ingegneria dell' Informazione, Universita? di Pisa, Via Caruso 16, I-56100 Pisa, Italy
+AB  - We have developed a code for the simulation of the electrical and magnetic properties of silicon quantum dots in the framework of the TCAD Package NANOTCAD-ViDES. We adopt current spin density functional theory with a local density approximation and with the effective mass approximation. We show that silicon quantum dots exhibit large variations of the total spin as the number of electrons in the dot and the applied magnetic field are varied. Such properties are mainly due to the silicon band structure, and make silicon quantum dots interesting systems for spintronic and quantum computing experiments. © Springer Science+Business Media LLC 2007.
+KW  - Current spin density functional theory
+KW  - Silicon quantum dot
+KW  - Spintronics
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - doi: 10.1007/s10825-006-0110-x
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Lisieri, M.; Dipartimento di Ingegneria dell' Informazione; Universita? di Pisa; Via Caruso 16 I-56100 Pisa, Italy; email: michele.lisieri@iet.unipi.it
+N1  - References: Friesen, M., Practical design and simulation of silicon-based quantum-dot qubits (2003) Phys. Rev. B, 67, pp. 121301-1-4; 
+Ladd, T.D., All-silicon quantum computer (2002) Phys. Rev. Lett., 89, pp. 017901-1-4; 
+Friesen, M., Tahan, C., Joynt, R., Eriksson, M.A., Spin readout and initialization in a semiconductor quantum dot (2004) Phys. Rev. B, 92, pp. 037901-1-4; 
+Das Sarma, S., Fabian, J., Hu, X., Z?utic?, I., Theoretical perspective on spintronics and spin-polarized transport (2000) IEEE Trans. Magn., 36, p. 2821; 
+Pala, M.G., Governale, M., Kig, J., Zlicke, U., Iannaccone, G., Two-dimensional hole precession in an all-semiconductor spin field effect transistor (2004) Phys. Rev. B, 69, pp. 045304-1-9; 
+Rokhinson, L.P., Guo, L.J., Chou, S.Y., Tsui, D.C., Spin transitions in a small Si quantum dot (2000) Phys. Rev. B/, 63, p. 35321; 
+Reimann, S.M., Manninen, M., Electronic structure of quantum dots (2002) Rev. Mod. Phys., 74, p. 1325; 
+Koskinen, M., Kolehmainen, J., Reimann, S.M., Toivanen, J., Manninen, M., Quantum dots in magnetic fields: Unrestricted symmetries in the current spin-density functional formalism (1999) The Euro. Phys. J. D, 9, pp. 487-490; 
+Tanatar, B., Ceperley, D.M., Ground state of the two-dimensional electron gas (1989) Phys. Rev. B, 39, p. 5005; 
+Pala, M.G., Iannaccone, G., A three-dimensional solver of the Schro?dinger equation in momentum space for the detailed simulation of nanostructures (2002) Nanotechnology, 13, pp. 369-372; 
+Friesen, M., Practical design and simulation of silicon-based quantum-dot qubits (2003) Phys. Rev. B, 67, pp. 121301-1-4. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34247344097&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Simulation of the entanglement creation for identical particles scattering in a 2D system
+JF  - Journal of Computational Electronics
+JA  - J. Comput. Electron.
+VL  - 6
+IS  - 1
+SP  - 89
+EP  - 92
+PY  - 2007///
+SN  - 15698025 (ISSN) 
+AU  - Buscemi, F.
+AU  - Bordone, P.
+AU  - Bertoni, A.
+AD  - S3 Research Center, CNR-INFM, via Campi 213/A, I-41100 Modena, Italy
+AD  - Dipartimento di Fisica, Universita? di Modena e Reggio Emilia, Modena, Italy
+AD  - S3 Research Center, CNR-INFM S3, via Campi 213/A, I-41100 Modena, Italy
+AB  - In recent years the dynamics of entanglement formation between two distinguishable charged particles has been investigated for scattering events in bulk semiconductors. The aim of this work is to overcome the hypothesis of distinguishable carriers. Here we present a quantitative evaluation of the entanglement dynamics for electron-electron collisions in a 2D system applying a method, suitable for indistinguishable particles, based on the Slater rank and the von Neumann entropy of the reduced density matrix. The quantum entanglement of both spatial and spin degrees of freedom is computed for various initial conditions of the system. © Springer Science+Business Media LLC 2007.
+KW  - Entanglement
+KW  - Indistinguishability
+KW  - Parallel diagonalization
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - doi: 10.1007/s10825-006-0071-0
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Buscemi, F.; S3 Research Center; CNR-INFM; via Campi 213/A I-41100 Modena, Italy; email: buscemi.fabrizio@unimore.it
+N1  - References: Giulini, D., (1996) Decoherence and the Appearance of a Classical World in Quantum Theory Springer, , Berlin; 
+Bordone, P., Bertoni, A., Simulation of entanglement creation for carrier-impurity scattering in a 2D (to be published on the Proceedings of 14-th International Conference on Non Equilibrium carrier dynamics semiconductors - HCIS 14 - Chicago, July 24-29, 2005)Bordone, P., Bertoni, A., Simulation of the entanglement dynamics for scattering between a free and a bound carrier in a quantum wire (2004) J. Comp. Elec., 3, p. 407; 
+Schliemann, J., Cirac, J.I., Kus, M., Lewenstein, M., Loss, D., Quantum correlations in two-fermion systems (2001) Phis. Rev. A., 64, p. 022303; 
+Ghirardi, G., Marinatto, L., General criterion for the entanglement of two indistinguishable particles (2004) Phys. Rev. A., 70, p. 012109; 
+Buscemi, F., Bordone, P., Bertoni, A., Entanglement dynamics of electron-electron scattering in low dimensional semiconductor system (2006) Phys. Rev. A., 73, p. 052312; 
+Lama, L., Leon, J., Dynamical generation of spin-spin entanglement via spin-independent scattering of two identical s = 1/2 fermions Phys (2006) Rev. A., 73, p. 052322. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34247388741&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Generalized quantum state sharing of arbitrary unknown two-qubit state
+JF  - Optics Communications
+JA  - Opt Commun
+VL  - 276
+IS  - 2
+SP  - 322
+EP  - 326
+PY  - 2007///
+SN  - 00304018 (ISSN) 
+AU  - Wang, Z.-y.
+AU  - Liu, Y.-m.
+AU  - Wang, D.
+AU  - Zhang, Z.-j.
+AD  - Key Laboratory of Optoelectronic Information Acquisition and Manipulation, Ministry of Education of China, School of Physics and Material Science, Hefei, 230039, China
+AD  - Department of Physics, Shaoguan University, Shaoguan, 512005, China
+AD  - Department of Physics, Center for Quantum Information Science, National Cheng Kung University, Tainan, 70101, Taiwan
+AB  - We present first a three-party scheme for probabilistically implementing quantum state sharing of an arbitrary unknown two-qubit state by using two non-maximally entangled three-qubit states as the quantum channel. We show that, by choosing the appropriate performance, it is indeed possible to share an arbitrary unknown two-qubit state using partially entangled states if the parties collaborate. We then sketch the generation of the three-party scheme to N-party case. © 2007 Elsevier B.V. All rights reserved.
+KW  - Bell-state measurement
+KW  - Generalized quantum state sharing
+KW  - Partially entangled state
+KW  - Single-qubit projective measurement
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: OPCOB
+N1  - doi: 10.1016/j.optcom.2007.03.085
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Zhang, Z.-j.; Department of Physics; Center for Quantum Information Science; National Cheng Kung University Tainan, 70101, Taiwan; email: zjzhang@ahu.edu.cn
+N1  - References: Shamir, A., (1979) Commun. ACM, 22, p. 612; 
+Hillery, M., Bu?zek, V., Berthiaume, A., (1999) Phys. Rev. A, 59, p. 1829; 
+Karlsson, A., Koashi, M., Imoto, N., (1999) Phys. Rev. A, 59, p. 162; 
+Gottesman, D., (2000) Phys. Rev. A, 61, p. 042311; 
+Tittel, W., Zbinden, H., Gisin, N., (2001) Phys. Rev. A, 63, p. 042301; 
+Karimipour, V., Bahraminasab, A., Bagherinezhad, S., (2002) Phys. Rev. A, 65, p. 042320; 
+Chau, H.F., (2002) Phys. Rev. A, 66, p. 060302; 
+Bagherinezhad, S., Karimipour, V., (2003) Phys. Rev. A, 67, p. 044302; 
+Guo, G.P., Guo, G.C., (2003) Phys. Lett. A, 310, p. 247; 
+Xiao, L., Long, G.L., Deng, F.G., Pan, J.W., (2004) Phys. Rev. A, 69, p. 052307; 
+Singh, S.K., (2005) Phys. Rev. A, 71, p. 012328; 
+Hsu, L.Y., Li, C.M., (2005) Phys. Rev. A, 71, p. 022321; 
+Han, L.F., (2005) Phys. Lett. A, 342, p. 60; 
+Zhang, Z.J., (2007) Phys. Lett. A, 361, p. 24; 
+Zhang, Z.J., (2005) Phys. Rev. A, 71, p. 044301; 
+Zhang, Z.J., (2005) Phys. Rev. A, 72, p. 022303; 
+Zhang, Z.J., (2005) Chin. Phys. Lett., 22, p. 1588; 
+Zhang, Z.J., (2007) Opt. Commun., 269, p. 418; 
+Cleve, R., Gottesman, D., Lo, H.K., (1999) Phys. Rev. Lett., 83, p. 648; 
+Bandyopadhyay, S., (2000) Phys. Rev. A, 62, p. 012308; 
+Hsu, L.Y., (2003) Phys. Rev. A, 68, p. 022306; 
+Li, Y.M., Zhang, K.S., Peng, K.C., (2004) Phys. Lett. A, 324, p. 420; 
+Lance, A.M., Symul, T., Bowen, W.P., Sanders, B.C., Lam, P.K., (2004) Phys. Rev. Lett., 92, p. 177903; 
+Deng, F.G., (2005) Phys. Lett. A, 337, p. 329; 
+Deng, F.G., Li, X.H., Zhou, H.Y., Zhang, Z.J., (2005) Phys. Rev. A, 72, p. 044302; 
+Zhang, Z.J., (2006) Opt. Commun., 261, p. 199; 
+Zhang, Z.J., (2005) Eur. Phys. J. D, 33, p. 133; 
+Lance, A.M., (2005) Phys. Rev. A, 71, p. 033814; 
+Deng, F.G., (2005) Phys. Rev. A, 72, p. 044301; 
+Li, X.H., (2006) J. Phys. B, 39, p. 1975; 
+Wang, Z.Y., Yuan, H., Shi, S.H., Zhang, Z.J., (2007) Eur. Phys. J. D, 41, p. 371; 
+Agrawal, P., Pati, A.K., (2002) Phys. Lett. A, 305, p. 12; 
+Gordon, G., Rigolin, G., (2006) Phys. Rev. A, 73, p. 062316; 
+Li, W.L., Li, C.F., Guo, G.C., (2000) Phys. Rev. A, 61, p. 034301. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34250169431&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Lorenz's attractor applied to the stream cipher (Ali-Pacha generator)
+JF  - Chaos, Solitons and Fractals
+JA  - Chaos Solitons Fractals
+VL  - 33
+IS  - 5
+SP  - 1762
+EP  - 1766
+PY  - 2007///
+SN  - 09600779 (ISSN) 
+AU  - Ali-Pacha, A.
+AU  - Hadj-Said, N.
+AU  - M'Hamed, A.
+AU  - Belgoraf, A.
+AD  - University of Sciences and Technology of Oran USTO, BP 1505, El M'Naouer, Oran, 31036, Algeria
+AD  - National Institute of Telecommunications, Evry, Paris, France
+AB  - The safety of information is primarily founded today on the calculation of algorithms whose confidentiality depends on the number of the necessary bits for the definition of a cryptographic key. If this type of system has proved reliable, then the increasing power of the means of calculation threatens the confidentiality of these methods. The powerful computers are certainly able to quantify and decipher information quickly, but their computing speed allows parallel cryptanalysis, which aims "to break" a code by discovering the key, for example, by testing all the possible keys. The only evocation of the principle of the quantum computer, with the potentially colossal capacities of calculation, has started a shock, even in the most savaged who are convinced of algorithmic cryptography. To mitigate this concern, we will introduce in this article a new cryptographic system based on chaotic concepts. © 2006 Elsevier Ltd. All rights reserved.
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: CSFOE
+N1  - doi: 10.1016/j.chaos.2006.03.009
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Ali-Pacha, A.; University of Sciences and Technology of Oran USTO; BP 1505, El M'Naouer Oran, 31036, Algeria; email: alipacha@yahoo.com
+N1  - References: Strogatz, S.H., (1994) Nonlinear systems and chaos, , Perseus Publishing; 
+Bruce, S., (1996) Applied cryptography-protocols, algorithms and source code in C. second ed., , John Wiley & Sons, Inc., New York; 
+Ali-Pacha, A., Hadj-Said, N., Belmekki, B., Belgoraf, A., Chaotic behaviour for the secrete key of cryptographic system (2005) Chaos, Solitons & Fractals, 23, pp. 1549-1552. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-33947170486&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Synchronization of free-space quantum key distribution
+JF  - Optics Communications
+JA  - Opt Commun
+VL  - 275
+IS  - 2
+SP  - 486
+EP  - 490
+PY  - 2007///
+SN  - 00304018 (ISSN) 
+AU  - Wu, Q.-L.
+AU  - Han, Z.-F.
+AU  - Miao, E.-L.
+AU  - Liu, Y.
+AU  - Dai, Y.-M.
+AU  - Guo, G.-C.
+AD  - Key Laboratory of Quantum Information, University of Science and Technology of China, Hefei, 230026, China
+AB  - In this paper, it is investigated that how the atmosphere effects on the synchronization accuracy in free-space quantum key distribution (QKD). We measured the synchronization error of a free-space QKD in our near-ground platform. According to experimental results and theoretical calculations, we deduce that the intensity fluctuation of synchronization light due to atmosphere disturbance contributes far more to the synchronization accuracy than others. By using the constant fraction discrimination method, the synchronization error of the free-space QKD, passing through the aerosphere, can be limited within 300 ps which meets the synchronization requirement of a satellite-to-ground QKD system. © 2007 Elsevier B.V. All rights reserved.
+KW  - Free-space quantum key distribution
+KW  - Synchronization
+KW  - Synchronization accuracy
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: OPCOB
+N1  - doi: 10.1016/j.optcom.2007.03.068
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Han, Z.-F.; Key Laboratory of Quantum Information; University of Science and Technology of China Hefei, 230026, China; email: zfhan@ustc.edu.cn
+N1  - References: Ekert, A.K., (1991) Phys. Rev. Lett., 67, p. 661; 
+Mo, X.-F., Zhu, B., Han, Z.-F., (2005) Opt. Lett., 30, p. 2632; 
+Gobby, C., Yuan, Z.L., Shields, A.J., (2004) J. Appl. Phys. Lett., 84, p. 3762; 
+Hiskett, P.A., Rosenberg, D., Peterson, C.G., (2006) New J. Phys., 8, p. 193; 
+Hughes, R.J., Nordholt, J.E., Derkacs, D., (2002) New J. Phys., 4, p. 43; 
+Kurtsiefer, C., Zarda, P., Halder, M., (2002) Nature, 419, p. 450; 
+Miao, E.-L., Han, Z.-F., Gong, S.-S., (2005) New J. Phys., 7, p. 215; 
+Rarity, J.G., Tapster, P.R., Gorman, P.M., (2001) J. Mod. Opt., 48, p. 1887; 
+Su, H.H., Plonus, M.A., (1971) J. Opt. Soc. Am., 61, p. 2; 
+Liu, C.H., (1993) Wave Propagation in Random Media (Scintillation), , Tatarskii V.I. (Ed), Taylor & Francis; 
+Majumdar, A.K., Ricklin, J.C., (2005) Proc. SPIE, 5892, pp. 58920K; 
+Mironov, V.L., (1981) Laser Beam Propagation in Turbulence Atmosphere, , Nauka, Moscow; 
+Young, C.Y., Andrews, L.C., Ishimaru, A., (1998) Appl. Opt., 37, p. 7655; 
+Nicholson, P.W., (1974) Nuclear Electronics, , John Wiley & Sons. 
+UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34249340426&partnerID=40&rel=R6.5.0
+ER  - 
+
+TY  - JOUR
+T1  - Multiparty quantum secret sharing with pure entangled states and decoy photons
+JF  - Physica A: Statistical Mechanics and its Applications
+JA  - Phys A Stat Mech Appl
+VL  - 381
+IS  - 1-2
+SP  - 164
+EP  - 169
+PY  - 2007///
+SN  - 03784371 (ISSN) 
+AU  - Zhou, P.
+AU  - Li, X.-H.
+AU  - Liang, Y.-J.
+AU  - Deng, F.-G.
+AU  - Zhou, H.-Y.
+AD  - Key Laboratory of Beam Technology and Material Modification, Ministry of Education, Beijing Normal University, Beijing, 100875, China
+AD  - Institute of Low Energy Nuclear Physics, Department of Material Science and Engineering, Beijing Normal University, Beijing, 100875, China
+AD  - Beijing Radiation Center, Beijing, 100875, China
+AB  - We present a scheme for multiparty quantum secret sharing of a private key with pure entangled states and decoy photons. The boss, say Alice uses the decoy photons, which are randomly in one of the four nonorthogonal single-photon states, to prevent a potentially dishonest agent from eavesdropping freely. This scheme requires the parties of communication to have neither an ideal single-photon quantum source nor a maximally entangled one, which makes this scheme more convenient than others in a practical application. Moreover, it has the advantage of having high intrinsic efficiency for qubits and exchanging less classical information in principle. © 2007 Elsevier B.V. All rights reserved.
+KW  - Decoy photons
+KW  - Pure entangled states
+KW  - Quantum communication
+KW  - Quantum secret sharing
+N1  - Export Date: 3 July 2007
+N1  - Source: Scopus
+N1  - CODEN: PHYAD
+N1  - doi: 10.1016/j.physa.2007.04.018
+N1  - Language of Original Document: English
+N1  - Correspondence Address: Deng, F.-G.; Key Laboratory of Beam Technology and Material Modification; Ministry of Education; Beijing Normal University Beijing, 100875, China; email: fgdeng@bnu.edu.cn
+N1  - References: Gisin, N., Ribordy, G., Tittel, W., Zbinden, H., (2002) Rev. Mod. Phys., 74, p. 145; 
+Ekert, A.K., (1991) Phys. Rev. Lett., 67, p. 661; 
+Bennett, C.H., Brassard, G., Mermin, N.D., (1992) Phys. Rev. Lett., 68, p. 557; 
+Deng, F.G., Long, G.L., (2003) Phys. Rev. A, 68, p. 042315; 
+Deng, F.G., Long, G.L., (2004) Phys. Rev. A, 70, p. 012311; 
+Long, G.L., Liu, X.S., (2002) Phys. Rev. A, 65, p. 032302; 
+Lo, H.K., Chau, H.F., Ardehali, M., (2005) J. Cryptology, 18, p. 122; 
+Deng, F.G., Long, G.L., Liu, X.S., (2003) Phys. Rev. A, 68, p. 042317; 
+Deng, F.G., Long, G.L., (2004) Phys. Rev. A, 69, p. 052319; 
+Wang, C., Deng, F.G., Li, Y.S., Liu, X.S., Long, G.L., (2005) Phys. Rev. A, 71, p. 044305; 
+Wang, C., Deng, F.G., Long, G.L., (2005) Opt. Commun., 253, p. 15; 
+Li, X.H., Deng, F.G., Li, C.Y., Liang, Y.J., Zhou, P., Zhou, H.Y., (2006) J. Korean Phys. Soc., 49, p. 1354; 
+Li, X.H., Deng, F.G., Zhou, H.Y., (2006) Phys. Rev. A, 74, p. 054302; 
+Man, Z.X., Zhang, Z.J., Li, Y., (2005) Chin. Phys. Lett., 22, p. 18; 
+Yan, F.L., Zhang, X., (2004) Euro. Phys. J. B, 41, p. 75; 
+Gao, T., Yan, F.L., Wang, Z.X., (2005) Chin. Phys., 14, p. 893; 
+Cai, Q.Y., (2004) B.W. Li Chin. Phys. Lett., 21, p. 601; 
+Zhu, A.D., Xia, Y., Fan, Q.B., Zhang, S., (2006) Phys. Rev. A, 73, p. 022338; 
+Wang, J., Zhang, Q., Tang, C.J., (2006) Phys. Lett. A, 358, p. 256; 
+Cao, H.J., Song, H.S., (2006) Chin. Phys. Lett., 23, p. 290; 
+Deng, F.G., Li, X.H., Li, C.Y., Zhou, P., Liang, Y.J., Zhou, H.Y., (2006) Chin. Phys. Lett., 23, p. 1676; 
+Li, X.H., Li, C.Y., Deng, F.G., Zhou, P., Liang, Y.J., Zhou, H.Y., (2007) Chin. Phys. Lett., 24, p. 23; 
+Nguyen, B.A., (2004) Phys. Lett. A, 328; 
+Hillery, M., Buz?ek, V., Berthiaume, A., (1999) Phys. Rev. A, 59, p. 1829; 
+Karlsson, A., Koashi, M., Imoto, N., (1999) Phys. Rev. A, 59, p. 162; 
+Xiao, L., Long, G.L., Deng, F.G., Pan, J.W., (2004) Phys. Rev. A, 69, p. 052307; 
+Deng, F.G., Zhou, P., Li, X.H., Li, C.Y., Zhou, H.Y., (2006) Chin. Phys. Lett., 23, p. 1084; 
+Karimipour, V., Bahraminasab, A., Bagherinezhad, S., (2002) Phys. Rev. A, 65, p. 042320; 
+Yang, C.P., Gea-Banacloche, J., (2001) J. Opt. B: Qantum Semiclass. Opt., 3, p. 407; 
+Bandyopadhyay, S., (2000) Phys. Rev. A, 62, p. 012308; 
+Deng, F.G., Long, G.L., Zhou, H.Y., (2005) Phys. Lett. A, 340, p. 43; 
+Deng, F.G., Li, X.H., Li, C.Y., Zhou, P., Zhou, H.Y., (2005) Phys. Lett. A, 354, p. 190; 
+Chen, P., Deng, F.G., Long, G.L., (2006) Chin. Phys., 15, p. 2228; 
+Zhang, Z.J., (2006) Physica A, 361, p. 233; 
+Guo, G.P., Guo, G.C., (2003) Phys. Lett. A, 310, p. 247; 
+Deng, F.G., Zhou, H.Y., Long, G.L., (2005) Phys. Lett. A, 337, p. 329; 
+Deng, F.G., Zhou, H.Y., Long, G.L., (2006) J. Phys. A, 39, p. 14089; 
+Yan, F.L., Gao, T., (2005) Phys. Rev. A, 72, p. 012304; 
+Zhang, Z.J., Li, Y., Man, Z.X., (2005) Phys. Rev. A, 71, p. 044301; 
+Deng, F.G., Li, X.H., Zhou, H.Y., Zhang, Z.J., (2005) Phys. Rev. A, 72, p. 044302; 
+Li, Y.M., Zhang, K.S., Peng, K.C., (2004) Phys. Lett. A, 324, p. 420; 
+Deng, F.G., Li, C.Y., Li, Y.S., Zhou, H.Y., Wang, Y., (2005) Phys. Rev. A, 72, p. 044301; 
+Deng, F.G., Li, X.H., Li, C.Y., Zhou, P., Zhou, H.Y., (2005) Phys. Rev. A, 72, p. 022338; 
+Li, X.H., Zhou, P., LI, C.Y., Zhou, H.Y., Deng, F.G., (2006) J. Phys. B, 39, p. 1975; 
+Deng, F.G., Li, X.H., Li, C.Y., Zhou, P., Zhou, H.Y., (2006) Eur. Phys. J. D, 39, p. 459; 
+Zhang, Z.J., (2005) Eur. Phys. J. D, 33, p. 133; 
+Zhang, Y.Q., Jin, X.R., Zhang, S., (2006) Chin. Phys., 15, p. 2252; 
+Li, C.Y., Zhou, H.Y., Wang, Y., Deng, F.G., (2005) Chin. Phys. Lett., 22, p. 1049; 
+Li, C.Y., Li, X.H., Deng, F.G., Zhou, P., Liang, Y.J., Zhou, H.Y., (2006) Chin. Phys. Lett., 23, p. 2896; 
+Lo, H.K., Zhau, H.F., (1999) Science, 283, p. 2050; 
+Shor, P.W., Preskill, J., (2000) Phys. Rev. Lett., 85, p. 441; 
+. UR  - http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-34249658443&partnerID=40&rel=R6.5.0
+ER  - 
+

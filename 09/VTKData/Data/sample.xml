@@ -1,0 +1,11 @@
+<!-- Sample XML file to test XML parser -->
+
+<html>
+<head>
+<title>public.kitware.com: Dashboards</title>
+</head>
+<frameset rows="35,*" border="0" frameborder="0" framespacing="0">
+<frame src="dashboard-menu.php?name=vtk" name="menu" />
+<frame src="http://www.vtk.org/Testing/Dashboard/MostRecentResults-Nightly/Dashboard.html" name="contents" />
+</frameset>
+</html>

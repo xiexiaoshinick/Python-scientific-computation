@@ -1,0 +1,11 @@
+FORMAT
+type:      master_server gold
+SERVERS
+number of servers:   1
+
+machine id: localhost
+executable: ensight7.server
+directory:
+login id:
+casefile: elements.case
+

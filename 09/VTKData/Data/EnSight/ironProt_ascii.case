@@ -1,0 +1,11 @@
+#EnSight Gold file written by VTK
+
+FORMAT
+type: ensight gold
+
+GEOMETRY
+model: ironProt_ascii.geo
+
+VARIABLE
+scalar per node: 	scalars 	ironProt_ascii_pd_scalars
+
