@@ -5,7 +5,7 @@
 import numpy as np
 
 a = np.arange(10)
-print "a[5]", a[5]
+print ("a[5]", a[5])
 print "a[3:5]", a[3:5]
 print "a[:5]", a[:5]
 print "a[:-1]", a[:-1]
